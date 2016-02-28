@@ -1,0 +1,36 @@
+_repo: Lovey-Mary_5970
+creator:
+  author:
+    agent_name: Rice, Alice Caldwell Hegan
+    aliases:
+    - Rice, Alice Hegan
+    - Hegan, Alice Caldwell
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '1471'
+    url: http://www.gutenberg.org/2009/agents/1471
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Hegan_Rice
+description: Story of a young girl who left an orphanage and manages to support herself
+  and the child she took with her.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poverty -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Friendship -- Fiction'
+- !lcsh 'Kindness -- Fiction'
+- !lcsh 'Mothers and sons -- Fiction'
+- !lcsh 'Youth and death -- Fiction'
+- !lcsh 'Orphanages -- Fiction'
+- !lcsh 'Runaway children -- Fiction'
+- !lcsh 'Girls -- Conduct of life -- Fiction'
+- !lcc 'PS'
+title: Lovey Mary
+url: http://www.gutenberg.org/ebooks/5970
