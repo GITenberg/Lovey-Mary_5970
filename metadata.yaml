@@ -1,5 +1,8 @@
 _repo: Lovey-Mary_5970
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rice, Alice Caldwell Hegan
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Alice_Hegan_Rice
 description: Story of a young girl who left an orphanage and manages to support herself
   and the child she took with her.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5970#Lovey-Mary
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
